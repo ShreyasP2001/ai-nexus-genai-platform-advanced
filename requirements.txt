@@ -1,0 +1,16 @@
+streamlit
+openai
+langchain
+pandas
+numpy
+PyPDF2
+chromadb
+faiss-cpu
+python-dotenv
+matplotlib
+seaborn
+scikit-learn
+tqdm
+tabulate
+whisper
+torch

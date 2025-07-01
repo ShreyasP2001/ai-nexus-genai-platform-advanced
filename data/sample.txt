@@ -1,0 +1,3 @@
+AI Nexus is a business intelligence platform powered by Generative AI.
+It helps you make decisions by analyzing data from documents, trends, and forecasts.
+You can chat with your data and generate actionable insights.
