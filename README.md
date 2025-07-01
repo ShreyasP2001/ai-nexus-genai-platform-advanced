@@ -109,10 +109,18 @@ Add your test files inside the `data/` folder:
 
 ---
 
-## 📩 Contact & License
+## 👨‍💻 Author
 
-- Author: [Your Name]
-- Contact: team@ainexus.ai
-- License: MIT
+- **Name:** Shreyas Prakash
+- **GitHub:** [ShreyasP2001](https://github.com/ShreyasP2001)
 
-© 2025 AI Nexus – All rights reserved.
+---
+
+## 📄 License
+
+This project is open-sourced under the **MIT License**.
+
+You are free to use, modify, and share this project with attribution.
+
+© 2025 Shreyas Prakash
+
